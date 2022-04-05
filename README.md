@@ -1,5 +1,2 @@
 # hello-world
-first ever
-
-myself ashish
-its my first ever github commit
+**editing in the "readme" branch**
